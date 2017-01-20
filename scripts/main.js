@@ -12,7 +12,7 @@ $(".offer-slider-wrap").slick({
 	infinite: true,
 	slidesToShow: 4,
 	slidesToScroll: 1,
-	//autoplay: true,
+	autoplay: true,
 	autoplaySpeed: 2000,
 	responsive: [
 		{
@@ -42,7 +42,7 @@ $(".windows-slider-wrap").slick({
 	slidesToShow: 3,
 	slidesToScroll: 1,
 	dots: true,
-	//autoplay: true,
+	autoplay: true,
 	autoplaySpeed: 2000,
 	responsive: [
 		{
@@ -77,7 +77,7 @@ $(".stuff-slider-wrap").slick({
 	slidesToShow: 4,
 	slidesToScroll: 1,
 	dots: true,
-	//autoplay: true,
+	autoplay: true,
 	autoplaySpeed: 2000,
 	responsive: [
 		{
@@ -107,7 +107,7 @@ $(".news-slider-wrap").slick({
 	slidesToScroll: 1,
 	dots: true,
 	arrows: false,
-	//autoplay: true,
+	autoplay: true,
 	autoplaySpeed: 2000,
 	responsive: [
 		{
