@@ -116,7 +116,7 @@ img {
 /*end of HEADER*/
 /*BANNER*/
 .banner {
-  background: url("../images/bg-header.png") no-repeat center;
+  background: url("../images/bg-header.jpg") no-repeat center;
   background-size: cover; }
 
 .toggle-button {
@@ -444,7 +444,7 @@ nav {
 /*end of OFFER*/
 /*WHYWE*/
 .whywe {
-  background: url("../images/bg-whywe.png") center;
+  background: url("../images/bg-whywe.jpg") center;
   background-size: cover;
   color: white; }
 
@@ -535,7 +535,7 @@ nav {
       width: 42%; }
 
 .order {
-  background: url("../images/5-years.png") center;
+  background: url("../images/5-years.jpg") center;
   background-size: cover; }
 
 .order-steps {
@@ -673,7 +673,7 @@ nav {
 
 .contacts {
   padding: 0;
-  background: url("../images/map.png");
+  background: url("../images/map.jpg");
   background-size: cover;
   border-top: 5px solid #248f40; }
 

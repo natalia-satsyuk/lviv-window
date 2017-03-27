@@ -144,7 +144,7 @@ img {
 
 /*BANNER*/
 .banner {
-	background: url("../images/bg-header.png") no-repeat center;
+	background: url("../images/bg-header.jpg") no-repeat center;
 	background-size: cover;
 }
 
@@ -559,7 +559,7 @@ nav {
 
 /*WHYWE*/
 .whywe {
-	background: url("../images/bg-whywe.png") center;
+	background: url("../images/bg-whywe.jpg") center;
 	background-size: cover;
 	color: white;
 }
@@ -669,7 +669,7 @@ nav {
 
 //ORDER
 .order {
-	background: url("../images/5-years.png") center;
+	background: url("../images/5-years.jpg") center;
 	background-size: cover;
 }
 
@@ -835,7 +835,7 @@ nav {
 //CONTACTS
 .contacts {
 	padding: 0;
-	background: url("../images/map.png");
+	background: url("../images/map.jpg");
 	background-size: cover;
 	border-top: 5px solid $color;
 }
@@ -900,7 +900,6 @@ nav {
 }
 //end of CONTACTS
 
-
 //PARTNERS
 .partners {
 	display: flex;
@@ -921,11 +920,8 @@ footer {
 //end of FOOTER
 
 
-
 //FOR SLIDER
-
 // (arrows)
-
 .slick-prev {
 	content: "";
 	width: 56px;
